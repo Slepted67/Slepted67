@@ -32,17 +32,6 @@ _(See more projects in my pinned repositories!)_
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <br />
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slepted67&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slepted67&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-
 ## 📫 How to reach me
 - Email: Slepted67@gmail.com
 - LinkedIn: [Not Done Yet](https://www.linkedin.com/)
