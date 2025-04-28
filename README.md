@@ -9,9 +9,9 @@ I'm a Computer Science student at Wentworth Institute of Technology passionate a
 
 ## 📌 Projects I'm proud of
 - [Last Light - Unity Survival Platformer](https://github.com/Slepted67/Last-Light-Unity-Game)
-- [AWS Cloud Security Penetration Test](https://github.com/YOURUSERNAME/AWS-Cloud-Security-PenTest)
-- [Wentworth Chatbot and Web Scraping Project](https://github.com/YOURUSERNAME/Wentworth-Chatbot-and-WebScraping)
-- [Parallel Mandelbrot Set Generator](https://github.com/YOURUSERNAME/Parallel-Mandelbrot-Set-Generator)
+- [AWS Cloud Security Penetration Test](https://github.com/Slepted67/AWS-Cloud-Security-PenTest)
+- [Wentworth Chatbot and Web Scraping Project](https://github.com/Slepted67/Wentworth-Chatbot-and-WebScraping)
+- [Parallel Mandelbrot Set Generator](https://github.com/Slepted67/Parallel-Mandelbrot-Set-Generator)
 
 _(See more projects in my pinned repositories!)_
 
