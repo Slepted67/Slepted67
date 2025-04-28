@@ -1,5 +1,10 @@
 # I'm Slepted or Justin Wilkins, whichever is easier for you
 
+<p align="center">
+  <img src="How-It-Feels.gif" alt="Animated Banner" />
+</p>
+
+
 I'm a Computer Science student at Wentworth Institute of Technology passionate about building games, automating tasks, and making data tell powerful stories.
 
 - 🎮 I love designing, developing, and playign video games
