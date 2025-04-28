@@ -1,4 +1,5 @@
-# Hi there, I'm Slepted 👋
+# Hi there, I'm Slepted or Justin Wilkins
+# Whichever is easier for you
 
 I'm a Computer Science student at Wentworth Institute of Technology passionate about building games, automating tasks, and making data tell powerful stories.
 
