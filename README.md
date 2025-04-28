@@ -7,7 +7,7 @@
 
 I'm a Computer Science student at Wentworth Institute of Technology passionate about building games, automating tasks, and making data tell powerful stories.
 
-- 🎮 I love designing, developing, and playign video games
+- 🎮 I love designing, developing, and playing video games
 - 🛡️ I have hands-on experience with cloud security and ethical hacking
 - 📊 I have analyzed real-world data with Python to uncover trends
 - ⚡ I  have explored parallel computing with MPI and OpenMP for performance optimization
