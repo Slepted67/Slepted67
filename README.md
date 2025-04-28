@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Slepted 👋
+
+I'm a Computer Science student at Wentworth Institute of Technology passionate about building games, automating tasks, and making data tell powerful stories.
+
+- 🎮 I love designing, developing, and playign video games
+- 🛡️ I have hands-on experience with cloud security and ethical hacking
+- 📊 I have analyzed real-world data with Python to uncover trends
+- ⚡ I  have explored parallel computing with MPI and OpenMP for performance optimization
+
+## 📌 Projects I'm proud of
+- [Last Light - Unity Survival Platformer](https://github.com/YOURUSERNAME/Last-Light-Unity-Game)
+- [AWS Cloud Security Penetration Test](https://github.com/YOURUSERNAME/AWS-Cloud-Security-PenTest)
+- [Wentworth Chatbot and Web Scraping Project](https://github.com/YOURUSERNAME/Wentworth-Chatbot-and-WebScraping)
+- [Parallel Mandelbrot Set Generator](https://github.com/YOURUSERNAME/Parallel-Mandelbrot-Set-Generator)
+
+_(See more projects in my pinned repositories!)_
+
+## 🛠️ Languages and Tools
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />
+<br />
+
+## 📫 How to reach me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+
+---
 
 <!--
 **Slepted67/Slepted67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
