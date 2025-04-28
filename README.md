@@ -25,8 +25,8 @@ _(See more projects in my pinned repositories!)_
 <br />
 
 ## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- Email: Slepted67@gmail.com
+- LinkedIn: Not Yet [Your LinkedIn Profile](https://www.linkedin.com/)
 
 ---
 
