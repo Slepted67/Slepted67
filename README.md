@@ -13,7 +13,7 @@ I'm a Computer Science student at Wentworth Institute of Technology passionate a
 - ⚡ I  have explored parallel computing with MPI and OpenMP for performance optimization
 
 ## 📌 Projects I'm proud of
-- [Last Light - Unity Survival Platformer](https://github.com/Slepted67/Last-Light-Unity-Game)
+- [Last Light - Unity Survival Game](https://github.com/Slepted67/Last-Light-Unity-Game)
 - [AWS Cloud Security Penetration Test](https://github.com/Slepted67/AWS-Cloud-Security-PenTest)
 - [Wentworth Chatbot and Web Scraping Project](https://github.com/Slepted67/Wentworth-Chatbot-and-WebScraping)
 - [Parallel Mandelbrot Set Generator](https://github.com/Slepted67/Parallel-Mandelbrot-Set-Generator)
