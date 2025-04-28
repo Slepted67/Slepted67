@@ -21,12 +21,13 @@ I'm a Computer Science student at Wentworth Institute of Technology passionate a
 _(See more projects in my pinned repositories!)_
 
 ## 🛠️ Languages and Tools
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
-<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <br />
 
 ## 📫 How to reach me
