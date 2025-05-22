@@ -34,7 +34,7 @@ _(See more projects in my pinned repositories!)_
 
 ## 📫 How to reach me
 - Email: Slepted67@gmail.com
-- LinkedIn: [Not Done Yet](https://www.linkedin.com/)
+- LinkedIn: [Jusitn Wilkins](https://www.linkedin.com/in/slepted67)
 
 ---
 
